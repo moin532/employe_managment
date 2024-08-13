@@ -3,6 +3,8 @@ I am excited to share a project I recently completed using the MERN stack. I dev
 Database: Created a custom database using Node.js and MongoDB.
 
 User Authentication:  Secure login functionality.
+
+
 Employee Management: Users can create, update, delete, and search for employee records.
 
 i implement a REDUX to handle the state Managment 
